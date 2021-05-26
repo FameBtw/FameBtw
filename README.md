@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @FameBtw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FameBtw/FameBtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I'm FameBtw
+- 👀 I am interested in python and javascript programming
+- 🌱 I am currently learning English
+- 💞️ I would like to be accepted on the esports team someday
+- 📫 Discord: FameBtw#1111
